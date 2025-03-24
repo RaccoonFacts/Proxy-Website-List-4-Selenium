@@ -1,5 +1,5 @@
 # Proxy-Website-List-4-Selenium
-Just a list of web browsing proxies (proxy) that work well with selenium. 
+Just a free quick list of web browsing proxies (proxy) that work well with selenium, will update from time to time. 
  
  
 
