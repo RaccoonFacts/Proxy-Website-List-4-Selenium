@@ -1,6 +1,7 @@
 # Proxy-Website-List-4-Selenium
 Just a list of web browsing proxies (proxy) that work well with selenium. 
  
+![image](https://github.com/user-attachments/assets/e48015db-5346-4746-9e1e-a3747665c970)
 
 ## EZ List (Recommended) - Exact same UI
 1. [https://www.blockaway.net](https://www.blockaway.net)
