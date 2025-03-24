@@ -2,7 +2,7 @@
 Just a list of web browsing proxies (proxy) that work well with selenium. 
  
 
-## EZ List (Recommended)
+## EZ List (Recommended) - Exact same UI
 1. [https://www.blockaway.net](https://www.blockaway.net)
 2. [https://www.croxyproxy.com](https://www.croxyproxy.com)
 3. [https://www.croxyproxy.rocks](https://www.croxyproxy.rocks)
@@ -11,9 +11,17 @@ Just a list of web browsing proxies (proxy) that work well with selenium.
 6. [https://www.youtubeunblocked.live](https://www.youtubeunblocked.live)
 7. [https://www.croxyproxy.net](https://www.croxyproxy.net)
 8. [https://cdn.youtubeunblocked.live/](https://cdn.youtubeunblocked.live/)
-9. [https://croxyproxy.best/](https://croxyproxy.best/) - Note: Similar but different
+9. [https://croxyproxy.best/](https://croxyproxy.best/) - Note: Same Same, but Different
 
-## Different UI Interface List
+## Mid tier - Similar UI 
+1. [https://unblockproxy.win/](https://unblockproxy.win/)
+2. [https://freeproxy.win/](https://freeproxy.win/)
+3. [https://unblock-websites.com/](https://unblock-websites.com/)
+4. [https://proxysite.one/](https://proxysite.one/)
+5. [https://unblockyoutube.video/](https://unblockyoutube.video/)
+6. [https://proxy-youtube.com/](https://proxy-youtube.com/)
+
+## Different UI Interface List 
 1. [https://croxyproxy.best/](https://croxyproxy.best/)
 2. [https://www.proxysite.com/](https://www.proxysite.com/)
 3. [https://proxyium.com/](https://proxyium.com/)
@@ -27,15 +35,8 @@ Just a list of web browsing proxies (proxy) that work well with selenium.
 11. [https://freeproxy.me/](https://freeproxy.me/)
 12. [https://proxy.vpn.asia/](https://proxy.vpn.asia/)
 
-## Similar Services
-1. [https://unblockproxy.win/](https://unblockproxy.win/)
-2. [https://freeproxy.win/](https://freeproxy.win/)
-3. [https://unblock-websites.com/](https://unblock-websites.com/)
-4. [https://proxysite.one/](https://proxysite.one/)
-5. [https://unblockyoutube.video/](https://unblockyoutube.video/)
-6. [https://proxy-youtube.com/](https://proxy-youtube.com/)
 
-## Popular Alternatives
+## Popular Alternatives that I don't like - (Not Recommended)
 1. [https://www.hide-my-ip.net/proxy-site.html](https://www.hide-my-ip.net/proxy-site.html)
 2. [https://hidefrom.com/](https://hidefrom.com/)
 
